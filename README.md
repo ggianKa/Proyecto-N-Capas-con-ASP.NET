@@ -1,4 +1,4 @@
-# Proyecto: CRUD en N Capas con ASP.NET Core MVC, ADO.NET y MSSQL
+# Proyecto: N Capas con ASP.NET Core MVC, ADO.NET y MSSQL
 
 ## Descripción:
 Este proyecto es un ejemplo de una aplicación CRUD (Crear, Leer, Actualizar, Eliminar) desarrollada en ASP.NET Core MVC utilizando una arquitectura en N Capas. La aplicación utiliza ADO.NET para interactuar con una base de datos MSSQL para realizar operaciones CRUD en una tabla de productos.
