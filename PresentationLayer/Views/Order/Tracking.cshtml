@@ -1,0 +1,35 @@
+﻿@{
+    ViewData["Title"] = "Confirmacion de Pedidos";
+}
+
+@model List<DataAccess.Order>
+
+<h2>@ViewData["Title"]</h2>
+
+<div>
+    <h2><strong>PEDIDO:</strong> @Model.FirstOrDefault()?.OrderID</h2>
+</div>
+
+<table class="table">
+    <thead>
+        <tr>
+            <th>ProductID </th>
+            <th>ProductName </th>
+            <th>Quantity</th>
+            <th>UnitPrice </th>
+            <th>Total </th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var order in Model)
+        {
+            <tr>
+                <td>@order.ProductID </td>
+                <td>@order.ProductName </td>
+                <td>@order.Quantity  </td>
+                <td>@order.UnitPrice  </td>
+                <td>@order.Total </td>
+            </tr>
+        }
+    </tbody>
+</table>

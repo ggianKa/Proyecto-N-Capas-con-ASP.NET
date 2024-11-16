@@ -1,0 +1,16 @@
+C:\Users\Gian\Desktop\ASP.NET_CORE_MVC_CRUD_NCAPAS_MSSQL_ADO.NET\BussinessLayer\bin\Debug\net8.0\BussinessLayer.deps.json
+C:\Users\Gian\Desktop\ASP.NET_CORE_MVC_CRUD_NCAPAS_MSSQL_ADO.NET\BussinessLayer\bin\Debug\net8.0\BussinessLayer.dll
+C:\Users\Gian\Desktop\ASP.NET_CORE_MVC_CRUD_NCAPAS_MSSQL_ADO.NET\BussinessLayer\bin\Debug\net8.0\BussinessLayer.pdb
+C:\Users\Gian\Desktop\ASP.NET_CORE_MVC_CRUD_NCAPAS_MSSQL_ADO.NET\BussinessLayer\bin\Debug\net8.0\DataAccess.dll
+C:\Users\Gian\Desktop\ASP.NET_CORE_MVC_CRUD_NCAPAS_MSSQL_ADO.NET\BussinessLayer\bin\Debug\net8.0\DataAccess.pdb
+C:\Users\Gian\Desktop\ASP.NET_CORE_MVC_CRUD_NCAPAS_MSSQL_ADO.NET\BussinessLayer\obj\Debug\net8.0\BussinessLayer.csproj.AssemblyReference.cache
+C:\Users\Gian\Desktop\ASP.NET_CORE_MVC_CRUD_NCAPAS_MSSQL_ADO.NET\BussinessLayer\obj\Debug\net8.0\BussinessLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gian\Desktop\ASP.NET_CORE_MVC_CRUD_NCAPAS_MSSQL_ADO.NET\BussinessLayer\obj\Debug\net8.0\BussinessLayer.AssemblyInfoInputs.cache
+C:\Users\Gian\Desktop\ASP.NET_CORE_MVC_CRUD_NCAPAS_MSSQL_ADO.NET\BussinessLayer\obj\Debug\net8.0\BussinessLayer.AssemblyInfo.cs
+C:\Users\Gian\Desktop\ASP.NET_CORE_MVC_CRUD_NCAPAS_MSSQL_ADO.NET\BussinessLayer\obj\Debug\net8.0\BussinessLayer.csproj.CoreCompileInputs.cache
+C:\Users\Gian\Desktop\ASP.NET_CORE_MVC_CRUD_NCAPAS_MSSQL_ADO.NET\BussinessLayer\obj\Debug\net8.0\BussinessLayer.sourcelink.json
+C:\Users\Gian\Desktop\ASP.NET_CORE_MVC_CRUD_NCAPAS_MSSQL_ADO.NET\BussinessLayer\obj\Debug\net8.0\Bussines.E1038C4E.Up2Date
+C:\Users\Gian\Desktop\ASP.NET_CORE_MVC_CRUD_NCAPAS_MSSQL_ADO.NET\BussinessLayer\obj\Debug\net8.0\BussinessLayer.dll
+C:\Users\Gian\Desktop\ASP.NET_CORE_MVC_CRUD_NCAPAS_MSSQL_ADO.NET\BussinessLayer\obj\Debug\net8.0\refint\BussinessLayer.dll
+C:\Users\Gian\Desktop\ASP.NET_CORE_MVC_CRUD_NCAPAS_MSSQL_ADO.NET\BussinessLayer\obj\Debug\net8.0\BussinessLayer.pdb
+C:\Users\Gian\Desktop\ASP.NET_CORE_MVC_CRUD_NCAPAS_MSSQL_ADO.NET\BussinessLayer\obj\Debug\net8.0\ref\BussinessLayer.dll

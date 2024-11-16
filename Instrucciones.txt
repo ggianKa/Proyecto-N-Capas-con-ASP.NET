@@ -1,0 +1,23 @@
+
+
+Comando para correr: dotnet run --project .\PresentationLayer\PresentationLayer.csproj
+
+*Ubicarse en la carpeta del proyecto
+
+-----VERSIONES-----------------------------------------------------------------
+
+
+Versión .NET: 8.0.400
+Versión SQLSERVER : v20
+VisualStudio 2022
+
+---SE MODIFICO LA TABLA ORDERS EN NORTHWIND-----------------------------------
+
+ALTER TABLE Orders
+ADD 
+    ConfirmationDate DATETIME NULL,              -- Nueva columna para la fecha de confirmación
+    Estado NVARCHAR(20) NOT NULL DEFAULT 'No confirmado',  -- Nueva columna para el estado del pedido, por defecto 'No confirmado'
+    Commments NVARCHAR(500) NULL;         --Comentarios
+
+
+

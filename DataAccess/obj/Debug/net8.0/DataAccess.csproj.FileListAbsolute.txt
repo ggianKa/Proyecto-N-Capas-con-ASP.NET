@@ -1,0 +1,13 @@
+C:\Users\Gian\Desktop\ASP.NET_CORE_MVC_CRUD_NCAPAS_MSSQL_ADO.NET\DataAccess\bin\Debug\net8.0\DataAccess.deps.json
+C:\Users\Gian\Desktop\ASP.NET_CORE_MVC_CRUD_NCAPAS_MSSQL_ADO.NET\DataAccess\bin\Debug\net8.0\DataAccess.dll
+C:\Users\Gian\Desktop\ASP.NET_CORE_MVC_CRUD_NCAPAS_MSSQL_ADO.NET\DataAccess\bin\Debug\net8.0\DataAccess.pdb
+C:\Users\Gian\Desktop\ASP.NET_CORE_MVC_CRUD_NCAPAS_MSSQL_ADO.NET\DataAccess\obj\Debug\net8.0\DataAccess.csproj.AssemblyReference.cache
+C:\Users\Gian\Desktop\ASP.NET_CORE_MVC_CRUD_NCAPAS_MSSQL_ADO.NET\DataAccess\obj\Debug\net8.0\DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gian\Desktop\ASP.NET_CORE_MVC_CRUD_NCAPAS_MSSQL_ADO.NET\DataAccess\obj\Debug\net8.0\DataAccess.AssemblyInfoInputs.cache
+C:\Users\Gian\Desktop\ASP.NET_CORE_MVC_CRUD_NCAPAS_MSSQL_ADO.NET\DataAccess\obj\Debug\net8.0\DataAccess.AssemblyInfo.cs
+C:\Users\Gian\Desktop\ASP.NET_CORE_MVC_CRUD_NCAPAS_MSSQL_ADO.NET\DataAccess\obj\Debug\net8.0\DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\Gian\Desktop\ASP.NET_CORE_MVC_CRUD_NCAPAS_MSSQL_ADO.NET\DataAccess\obj\Debug\net8.0\DataAccess.sourcelink.json
+C:\Users\Gian\Desktop\ASP.NET_CORE_MVC_CRUD_NCAPAS_MSSQL_ADO.NET\DataAccess\obj\Debug\net8.0\DataAccess.dll
+C:\Users\Gian\Desktop\ASP.NET_CORE_MVC_CRUD_NCAPAS_MSSQL_ADO.NET\DataAccess\obj\Debug\net8.0\refint\DataAccess.dll
+C:\Users\Gian\Desktop\ASP.NET_CORE_MVC_CRUD_NCAPAS_MSSQL_ADO.NET\DataAccess\obj\Debug\net8.0\DataAccess.pdb
+C:\Users\Gian\Desktop\ASP.NET_CORE_MVC_CRUD_NCAPAS_MSSQL_ADO.NET\DataAccess\obj\Debug\net8.0\ref\DataAccess.dll

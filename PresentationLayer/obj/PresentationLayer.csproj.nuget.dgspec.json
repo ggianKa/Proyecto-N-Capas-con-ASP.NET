@@ -1,33 +1,36 @@
 {
   "format": 1,
   "restore": {
-    "/Users/johnvaller/Desktop/CRUD_MVC_NCapas/PresentationLayer/PresentationLayer.csproj": {}
+    "C:\\Users\\Gian\\Desktop\\ASP.NET_CORE_MVC_CRUD_NCAPAS_MSSQL_ADO.NET\\PresentationLayer\\PresentationLayer.csproj": {}
   },
   "projects": {
-    "/Users/johnvaller/Desktop/CRUD_MVC_NCapas/BussinessLayer/BussinessLayer.csproj": {
+    "C:\\Users\\Gian\\Desktop\\ASP.NET_CORE_MVC_CRUD_NCAPAS_MSSQL_ADO.NET\\BussinessLayer\\BussinessLayer.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/johnvaller/Desktop/CRUD_MVC_NCapas/BussinessLayer/BussinessLayer.csproj",
+        "projectUniqueName": "C:\\Users\\Gian\\Desktop\\ASP.NET_CORE_MVC_CRUD_NCAPAS_MSSQL_ADO.NET\\BussinessLayer\\BussinessLayer.csproj",
         "projectName": "BussinessLayer",
-        "projectPath": "/Users/johnvaller/Desktop/CRUD_MVC_NCapas/BussinessLayer/BussinessLayer.csproj",
-        "packagesPath": "/Users/johnvaller/.nuget/packages/",
-        "outputPath": "/Users/johnvaller/Desktop/CRUD_MVC_NCapas/BussinessLayer/obj/",
+        "projectPath": "C:\\Users\\Gian\\Desktop\\ASP.NET_CORE_MVC_CRUD_NCAPAS_MSSQL_ADO.NET\\BussinessLayer\\BussinessLayer.csproj",
+        "packagesPath": "C:\\Users\\Gian\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Gian\\Desktop\\ASP.NET_CORE_MVC_CRUD_NCAPAS_MSSQL_ADO.NET\\BussinessLayer\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "/Users/johnvaller/.nuget/NuGet/NuGet.Config"
+          "C:\\Users\\Gian\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net8.0"
         ],
         "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "/Users/johnvaller/Desktop/CRUD_MVC_NCapas/DataAccess/DataAccess.csproj": {
-                "projectPath": "/Users/johnvaller/Desktop/CRUD_MVC_NCapas/DataAccess/DataAccess.csproj"
+              "C:\\Users\\Gian\\Desktop\\ASP.NET_CORE_MVC_CRUD_NCAPAS_MSSQL_ADO.NET\\DataAccess\\DataAccess.csproj": {
+                "projectPath": "C:\\Users\\Gian\\Desktop\\ASP.NET_CORE_MVC_CRUD_NCAPAS_MSSQL_ADO.NET\\DataAccess\\DataAccess.csproj"
               }
             }
           }
@@ -36,6 +39,11 @@
           "warnAsError": [
             "NU1605"
           ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
         }
       },
       "frameworks": {
@@ -57,26 +65,29 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/8.0.101/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.400/PortableRuntimeIdentifierGraph.json"
         }
       }
     },
-    "/Users/johnvaller/Desktop/CRUD_MVC_NCapas/DataAccess/DataAccess.csproj": {
+    "C:\\Users\\Gian\\Desktop\\ASP.NET_CORE_MVC_CRUD_NCAPAS_MSSQL_ADO.NET\\DataAccess\\DataAccess.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/johnvaller/Desktop/CRUD_MVC_NCapas/DataAccess/DataAccess.csproj",
+        "projectUniqueName": "C:\\Users\\Gian\\Desktop\\ASP.NET_CORE_MVC_CRUD_NCAPAS_MSSQL_ADO.NET\\DataAccess\\DataAccess.csproj",
         "projectName": "DataAccess",
-        "projectPath": "/Users/johnvaller/Desktop/CRUD_MVC_NCapas/DataAccess/DataAccess.csproj",
-        "packagesPath": "/Users/johnvaller/.nuget/packages/",
-        "outputPath": "/Users/johnvaller/Desktop/CRUD_MVC_NCapas/DataAccess/obj/",
+        "projectPath": "C:\\Users\\Gian\\Desktop\\ASP.NET_CORE_MVC_CRUD_NCAPAS_MSSQL_ADO.NET\\DataAccess\\DataAccess.csproj",
+        "packagesPath": "C:\\Users\\Gian\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Gian\\Desktop\\ASP.NET_CORE_MVC_CRUD_NCAPAS_MSSQL_ADO.NET\\DataAccess\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "/Users/johnvaller/.nuget/NuGet/NuGet.Config"
+          "C:\\Users\\Gian\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net8.0"
         ],
         "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -89,6 +100,11 @@
           "warnAsError": [
             "NU1605"
           ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
         }
       },
       "frameworks": {
@@ -116,37 +132,40 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/8.0.101/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.400/PortableRuntimeIdentifierGraph.json"
         }
       }
     },
-    "/Users/johnvaller/Desktop/CRUD_MVC_NCapas/PresentationLayer/PresentationLayer.csproj": {
+    "C:\\Users\\Gian\\Desktop\\ASP.NET_CORE_MVC_CRUD_NCAPAS_MSSQL_ADO.NET\\PresentationLayer\\PresentationLayer.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/johnvaller/Desktop/CRUD_MVC_NCapas/PresentationLayer/PresentationLayer.csproj",
+        "projectUniqueName": "C:\\Users\\Gian\\Desktop\\ASP.NET_CORE_MVC_CRUD_NCAPAS_MSSQL_ADO.NET\\PresentationLayer\\PresentationLayer.csproj",
         "projectName": "PresentationLayer",
-        "projectPath": "/Users/johnvaller/Desktop/CRUD_MVC_NCapas/PresentationLayer/PresentationLayer.csproj",
-        "packagesPath": "/Users/johnvaller/.nuget/packages/",
-        "outputPath": "/Users/johnvaller/Desktop/CRUD_MVC_NCapas/PresentationLayer/obj/",
+        "projectPath": "C:\\Users\\Gian\\Desktop\\ASP.NET_CORE_MVC_CRUD_NCAPAS_MSSQL_ADO.NET\\PresentationLayer\\PresentationLayer.csproj",
+        "packagesPath": "C:\\Users\\Gian\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Gian\\Desktop\\ASP.NET_CORE_MVC_CRUD_NCAPAS_MSSQL_ADO.NET\\PresentationLayer\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "/Users/johnvaller/.nuget/NuGet/NuGet.Config"
+          "C:\\Users\\Gian\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net8.0"
         ],
         "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "/Users/johnvaller/Desktop/CRUD_MVC_NCapas/BussinessLayer/BussinessLayer.csproj": {
-                "projectPath": "/Users/johnvaller/Desktop/CRUD_MVC_NCapas/BussinessLayer/BussinessLayer.csproj"
+              "C:\\Users\\Gian\\Desktop\\ASP.NET_CORE_MVC_CRUD_NCAPAS_MSSQL_ADO.NET\\BussinessLayer\\BussinessLayer.csproj": {
+                "projectPath": "C:\\Users\\Gian\\Desktop\\ASP.NET_CORE_MVC_CRUD_NCAPAS_MSSQL_ADO.NET\\BussinessLayer\\BussinessLayer.csproj"
               },
-              "/Users/johnvaller/Desktop/CRUD_MVC_NCapas/DataAccess/DataAccess.csproj": {
-                "projectPath": "/Users/johnvaller/Desktop/CRUD_MVC_NCapas/DataAccess/DataAccess.csproj"
+              "C:\\Users\\Gian\\Desktop\\ASP.NET_CORE_MVC_CRUD_NCAPAS_MSSQL_ADO.NET\\DataAccess\\DataAccess.csproj": {
+                "projectPath": "C:\\Users\\Gian\\Desktop\\ASP.NET_CORE_MVC_CRUD_NCAPAS_MSSQL_ADO.NET\\DataAccess\\DataAccess.csproj"
               }
             }
           }
@@ -155,6 +174,11 @@
           "warnAsError": [
             "NU1605"
           ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
         }
       },
       "frameworks": {
@@ -179,7 +203,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/8.0.101/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.400/PortableRuntimeIdentifierGraph.json"
         }
       }
     }

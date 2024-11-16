@@ -1,0 +1,164 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Gian\\Desktop\\ASP.NET_CORE_MVC_CRUD_NCAPAS_MSSQL_ADO.NET\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A617217B-ADC9-46F3-95E3-4ED7EEF99EC1}|DataAccess\\DataAccess.csproj|c:\\users\\gian\\desktop\\asp.net_core_mvc_crud_ncapas_mssql_ado.net\\dataaccess\\orderdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A617217B-ADC9-46F3-95E3-4ED7EEF99EC1}|DataAccess\\DataAccess.csproj|solutionrelative:dataaccess\\orderdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F73F9446-4170-4EA7-ACAD-68745E47A212}|PresentationLayer\\PresentationLayer.csproj|c:\\users\\gian\\desktop\\asp.net_core_mvc_crud_ncapas_mssql_ado.net\\presentationlayer\\views\\order\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F73F9446-4170-4EA7-ACAD-68745E47A212}|PresentationLayer\\PresentationLayer.csproj|solutionrelative:presentationlayer\\views\\order\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F73F9446-4170-4EA7-ACAD-68745E47A212}|PresentationLayer\\PresentationLayer.csproj|c:\\users\\gian\\desktop\\asp.net_core_mvc_crud_ncapas_mssql_ado.net\\presentationlayer\\controllers\\ordercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F73F9446-4170-4EA7-ACAD-68745E47A212}|PresentationLayer\\PresentationLayer.csproj|solutionrelative:presentationlayer\\controllers\\ordercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{480BC65F-469B-4C89-8E2B-B72105C1861E}|BussinessLayer\\BussinessLayer.csproj|c:\\users\\gian\\desktop\\asp.net_core_mvc_crud_ncapas_mssql_ado.net\\bussinesslayer\\orderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{480BC65F-469B-4C89-8E2B-B72105C1861E}|BussinessLayer\\BussinessLayer.csproj|solutionrelative:bussinesslayer\\orderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A617217B-ADC9-46F3-95E3-4ED7EEF99EC1}|DataAccess\\DataAccess.csproj|c:\\users\\gian\\desktop\\asp.net_core_mvc_crud_ncapas_mssql_ado.net\\dataaccess\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A617217B-ADC9-46F3-95E3-4ED7EEF99EC1}|DataAccess\\DataAccess.csproj|solutionrelative:dataaccess\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F73F9446-4170-4EA7-ACAD-68745E47A212}|PresentationLayer\\PresentationLayer.csproj|c:\\users\\gian\\desktop\\asp.net_core_mvc_crud_ncapas_mssql_ado.net\\presentationlayer\\views\\order\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F73F9446-4170-4EA7-ACAD-68745E47A212}|PresentationLayer\\PresentationLayer.csproj|solutionrelative:presentationlayer\\views\\order\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A617217B-ADC9-46F3-95E3-4ED7EEF99EC1}|DataAccess\\DataAccess.csproj|c:\\users\\gian\\desktop\\asp.net_core_mvc_crud_ncapas_mssql_ado.net\\dataaccess\\orderupdate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A617217B-ADC9-46F3-95E3-4ED7EEF99EC1}|DataAccess\\DataAccess.csproj|solutionrelative:dataaccess\\orderupdate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F73F9446-4170-4EA7-ACAD-68745E47A212}|PresentationLayer\\PresentationLayer.csproj|c:\\users\\gian\\desktop\\asp.net_core_mvc_crud_ncapas_mssql_ado.net\\presentationlayer\\views\\order\\tracking.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F73F9446-4170-4EA7-ACAD-68745E47A212}|PresentationLayer\\PresentationLayer.csproj|solutionrelative:presentationlayer\\views\\order\\tracking.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Order.cs",
+              "DocumentMoniker": "C:\\Users\\Gian\\Desktop\\ASP.NET_CORE_MVC_CRUD_NCAPAS_MSSQL_ADO.NET\\DataAccess\\Order.cs",
+              "RelativeDocumentMoniker": "DataAccess\\Order.cs",
+              "ToolTip": "C:\\Users\\Gian\\Desktop\\ASP.NET_CORE_MVC_CRUD_NCAPAS_MSSQL_ADO.NET\\DataAccess\\Order.cs",
+              "RelativeToolTip": "DataAccess\\Order.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-16T17:49:12.909Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "OrderController.cs",
+              "DocumentMoniker": "C:\\Users\\Gian\\Desktop\\ASP.NET_CORE_MVC_CRUD_NCAPAS_MSSQL_ADO.NET\\PresentationLayer\\Controllers\\OrderController.cs",
+              "RelativeDocumentMoniker": "PresentationLayer\\Controllers\\OrderController.cs",
+              "ToolTip": "C:\\Users\\Gian\\Desktop\\ASP.NET_CORE_MVC_CRUD_NCAPAS_MSSQL_ADO.NET\\PresentationLayer\\Controllers\\OrderController.cs",
+              "RelativeToolTip": "PresentationLayer\\Controllers\\OrderController.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAgwCEAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-16T17:40:38.014Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Tracking.cshtml",
+              "DocumentMoniker": "C:\\Users\\Gian\\Desktop\\ASP.NET_CORE_MVC_CRUD_NCAPAS_MSSQL_ADO.NET\\PresentationLayer\\Views\\Order\\Tracking.cshtml",
+              "RelativeDocumentMoniker": "PresentationLayer\\Views\\Order\\Tracking.cshtml",
+              "ToolTip": "C:\\Users\\Gian\\Desktop\\ASP.NET_CORE_MVC_CRUD_NCAPAS_MSSQL_ADO.NET\\PresentationLayer\\Views\\Order\\Tracking.cshtml",
+              "RelativeToolTip": "PresentationLayer\\Views\\Order\\Tracking.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-16T17:37:45.068Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\Gian\\Desktop\\ASP.NET_CORE_MVC_CRUD_NCAPAS_MSSQL_ADO.NET\\PresentationLayer\\Views\\Order\\Edit.cshtml",
+              "RelativeDocumentMoniker": "PresentationLayer\\Views\\Order\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\Gian\\Desktop\\ASP.NET_CORE_MVC_CRUD_NCAPAS_MSSQL_ADO.NET\\PresentationLayer\\Views\\Order\\Edit.cshtml",
+              "RelativeToolTip": "PresentationLayer\\Views\\Order\\Edit.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACIAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-16T17:37:08.672Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Gian\\Desktop\\ASP.NET_CORE_MVC_CRUD_NCAPAS_MSSQL_ADO.NET\\PresentationLayer\\Views\\Order\\Index.cshtml",
+              "RelativeDocumentMoniker": "PresentationLayer\\Views\\Order\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Gian\\Desktop\\ASP.NET_CORE_MVC_CRUD_NCAPAS_MSSQL_ADO.NET\\PresentationLayer\\Views\\Order\\Index.cshtml",
+              "RelativeToolTip": "PresentationLayer\\Views\\Order\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-15T20:08:10.557Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "OrderData.cs",
+              "DocumentMoniker": "C:\\Users\\Gian\\Desktop\\ASP.NET_CORE_MVC_CRUD_NCAPAS_MSSQL_ADO.NET\\DataAccess\\OrderData.cs",
+              "RelativeDocumentMoniker": "DataAccess\\OrderData.cs",
+              "ToolTip": "C:\\Users\\Gian\\Desktop\\ASP.NET_CORE_MVC_CRUD_NCAPAS_MSSQL_ADO.NET\\DataAccess\\OrderData.cs",
+              "RelativeToolTip": "DataAccess\\OrderData.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAABSAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-16T18:02:44.069Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "OrderService.cs",
+              "DocumentMoniker": "C:\\Users\\Gian\\Desktop\\ASP.NET_CORE_MVC_CRUD_NCAPAS_MSSQL_ADO.NET\\BussinessLayer\\OrderService.cs",
+              "RelativeDocumentMoniker": "BussinessLayer\\OrderService.cs",
+              "ToolTip": "C:\\Users\\Gian\\Desktop\\ASP.NET_CORE_MVC_CRUD_NCAPAS_MSSQL_ADO.NET\\BussinessLayer\\OrderService.cs",
+              "RelativeToolTip": "BussinessLayer\\OrderService.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAowCMAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-16T17:51:39.735Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "OrderUpdate.cs",
+              "DocumentMoniker": "C:\\Users\\Gian\\Desktop\\ASP.NET_CORE_MVC_CRUD_NCAPAS_MSSQL_ADO.NET\\DataAccess\\OrderUpdate.cs",
+              "RelativeDocumentMoniker": "DataAccess\\OrderUpdate.cs",
+              "ToolTip": "C:\\Users\\Gian\\Desktop\\ASP.NET_CORE_MVC_CRUD_NCAPAS_MSSQL_ADO.NET\\DataAccess\\OrderUpdate.cs",
+              "RelativeToolTip": "DataAccess\\OrderUpdate.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-16T17:49:22.622Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

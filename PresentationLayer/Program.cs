@@ -8,7 +8,7 @@ builder.Services.AddControllersWithViews();
 string? connectionString = builder.Configuration.GetConnectionString("DefaultConnection");
 if (connectionString!=null)
 {
-    builder.Services.AddScoped<ProductoService>(provider => new ProductoService(connectionString));
+    builder.Services.AddScoped<OrderService>(provider => new OrderService(connectionString));
 }
 
 var app = builder.Build();

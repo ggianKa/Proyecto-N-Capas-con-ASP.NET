@@ -1,0 +1,47 @@
+﻿@{
+    ViewData["Title"] = "Editar Order";
+}
+
+@model DataAccess.OrderUpdate
+
+<h2>@ViewData["Title"]</h2>
+
+<h3>Confirmar Pedido</h3>
+<form asp-action="Edit" method="post">
+    <div class="form-group">
+        <label for="OrderID">OrderID</label>
+        <input type="text" class="form-control" id="OrderID" name="OrderID" value="@Model.OrderID" readonly />
+    </div>
+
+    <div class="form-group">
+        <label for="Estado">Estado del Pedido</label>
+        <select class="form-control" id="Estado" name="Estado">
+            <option value="Confirmado">Confirmado</option>
+            <option value="No Confirmado">No Confirmado</option>
+        </select>
+    </div>
+
+    <div class="form-group">
+        <label for="ConfirmationDate">Fecha de Confirmación</label>
+        <input type="datetime-local" class="form-control" id="ConfirmationDate" name="ConfirmationDate" />
+    </div>
+
+    <div class="form-group">
+        <label for="Commments">Comentarios</label>
+        <textarea class="form-control" id="Commments" name="Commments" rows="3"></textarea>
+    </div>
+
+    <button type="submit" class="btn btn-primary">Actualizar Pedido</button>
+</form>
+
+@if (!ViewData.ModelState.IsValid)
+{
+    <div class="alert alert-danger">
+        <ul>
+            @foreach (var error in ViewData.ModelState.Values.SelectMany(v => v.Errors))
+            {
+                <li>@error.ErrorMessage</li>
+            }
+        </ul>
+    </div>
+}
